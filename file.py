@@ -1,0 +1,2 @@
+def lolkek():
+    return "lolkek"
